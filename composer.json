@@ -1,6 +1,7 @@
 {
     "name": "misterjanglez/testing",
     "description": "My HelloWorld for package development",
+    "license": "MIT",
     "require": {
         "php": "^7.2"
     }
