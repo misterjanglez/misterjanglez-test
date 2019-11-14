@@ -1,0 +1,7 @@
+{
+    "name": "misterjanglez/testing",
+    "description": "My HelloWorld for package development",
+    "require": {
+        "php": "^7.2"
+    }
+}
